@@ -1,0 +1,17 @@
+
+/* default */
+
+.menu {
+    list-style: none;
+}
+
+.menu li {
+    cursor: pointer;
+    float: left;
+    font-size: 20px;
+    margin: 15px 10px;
+}
+
+.selected {
+    text-decoration: underline;
+}
